@@ -9,7 +9,7 @@
 | JavaScript | 5/10      |
 | Bootstrap  | 2/10      |
 | Python     | 5/10      |
-| VBS        | 6/10      |
+| VBS        | 7/10      |
 
 ## [![Información](https://img.shields.io/badge/Información-azul)](https://es.wikipedia.org/wiki/Información) Info
 
@@ -36,6 +36,16 @@ Mi top 5 de comida:
 ---
 
 # CV Pablo D. Gutiérrez
+
+| Software   | Habilidad |
+| ---------- | --------- |
+| Figma      | 9/10      |
+| Solidworks | 7/10      |
+| Fusion 360 | 7/10      |
+| VS Code    | 8/10      |
+| Office     | 9/10      |
+| Adobe      | 9/10      |
+
 
 ## Maestro en Diseño y Desarrollo de Producto
 
